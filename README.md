@@ -1,5 +1,13 @@
 # AIM-LCpro: Accurate Prediction of Disease-Free and Overall Survival in Non-Small Cell Lung Cancer Using Patient-Level Multimodal Weakly Supervised Learning
 
+## Citation
+
+Li, Y., Chai, X., Yang, M. et al. Accurate prediction of disease-free and overall survival in non-small cell lung cancer using patient-level multimodal weakly supervised learning. npj Precis. Onc. 9, 197 (2025).
+
+https://www.nature.com/articles/s41698-025-00981-y
+
+https://doi.org/10.1038/s41698-025-00981-y
+
 ## Overview
 
 AIM-LCpro focuses on developing a multimodal AI model that integrates whole-slide images (WSIs) and dense clinical data to predict disease-free survival (DFS) and overall survival (OS) with high accuracy for non-small cell lung cancer (NSCLC) patients undergoing surgery.
